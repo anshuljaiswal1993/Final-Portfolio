@@ -22,8 +22,6 @@
 * 📱 **Responsive Navigation**
   Desktop and mobile menus with glassmorphism
 
-* 👨‍💻 **Hero & About Sections**
-  Showcase who you are with smooth intro animations and buttons
 
 * 📊 **Skills Grid**
   Filterable progress bars and categories with animated width
